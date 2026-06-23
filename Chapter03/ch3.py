@@ -87,10 +87,14 @@ from random import* #랜덤 모듈에서 사용되어지는 모든 함수 가져
 
   #range(1,41) 1부터~40까지 randrange(1,41) : 1~40까지 랜덤으로 출력
 
-for i in range(1,5):
-    print(randrange(120,180))
+#for i in range(0,5):
+#    print(randrange(120,180))
+#print("*"*10)
+#randint(1,41) 1~41을 포함해서 랜덤 출력
+#for i in range(0,5):
+#    print(randint(120,125))
 
-
+#random
 
 
 
